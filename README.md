@@ -1,0 +1,2 @@
+# CubeCalculator
+Cube Calculator!
